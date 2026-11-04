@@ -1,0 +1,1357 @@
+{
+"img001": {
+"subject": "technology",
+"width": 66,
+"aspect": 0.682
+},
+"img002": {
+"subject": "technology",
+"width": 66,
+"aspect": 0.697
+},
+"img003": {
+"subject": "technology",
+"width": 81,
+"aspect": 0.79
+},
+"img004": {
+"subject": "technology",
+"width": 73,
+"aspect": 0.521
+},
+"img005": {
+"subject": "technology",
+"width": 107,
+"aspect": 0.486
+},
+"img006": {
+"subject": "technology",
+"width": 118,
+"aspect": 0.432
+},
+"img007": {
+"subject": "technology",
+"width": 89,
+"aspect": 0.483
+},
+"img008": {
+"subject": "technology",
+"width": 101,
+"aspect": 0.436
+},
+"img009": {
+"subject": "technology",
+"width": 101,
+"aspect": 0.356
+},
+"img010": {
+"subject": "technology",
+"width": 95,
+"aspect": 0.484
+},
+"img011": {
+"subject": "geography",
+"width": 875,
+"aspect": 0.203
+},
+"img012": {
+"subject": "geography",
+"width": 900,
+"aspect": 0.333
+},
+"img013": {
+"subject": "geography",
+"width": 799,
+"aspect": 0.551
+},
+"img014": {
+"subject": "chemistry",
+"width": 320,
+"aspect": 0.472
+},
+"img015": {
+"subject": "chemistry",
+"width": 900,
+"aspect": 0.238
+},
+"img016": {
+"subject": "chemistry",
+"width": 320,
+"aspect": 0.472
+},
+"img017": {
+"subject": "chemistry",
+"width": 146,
+"aspect": 0.979
+},
+"img018": {
+"subject": "chemistry",
+"width": 602,
+"aspect": 0.528
+},
+"img019": {
+"subject": "chemistry",
+"width": 522,
+"aspect": 0.584
+},
+"img020": {
+"subject": "chemistry",
+"width": 398,
+"aspect": 0.535
+},
+"img021": {
+"subject": "chemistry",
+"width": 660,
+"aspect": 0.061
+},
+"img022": {
+"subject": "chemistry",
+"width": 756,
+"aspect": 0.066
+},
+"img023": {
+"subject": "civic",
+"width": 900,
+"aspect": 0.378
+},
+"img024": {
+"subject": "math",
+"width": 351,
+"aspect": 0.946
+},
+"img025": {
+"subject": "math",
+"width": 829,
+"aspect": 0.128
+},
+"img026": {
+"subject": "math",
+"width": 813,
+"aspect": 0.412
+},
+"img027": {
+"subject": "math",
+"width": 739,
+"aspect": 0.258
+},
+"img028": {
+"subject": "math",
+"width": 378,
+"aspect": 0.926
+},
+"img029": {
+"subject": "math",
+"width": 319,
+"aspect": 1.0
+},
+"img030": {
+"subject": "math",
+"width": 350,
+"aspect": 1.046
+},
+"img031": {
+"subject": "math",
+"width": 424,
+"aspect": 0.8
+},
+"img032": {
+"subject": "math",
+"width": 348,
+"aspect": 0.986
+},
+"img033": {
+"subject": "math",
+"width": 304,
+"aspect": 0.961
+},
+"img034": {
+"subject": "math",
+"width": 395,
+"aspect": 0.668
+},
+"img035": {
+"subject": "math",
+"width": 234,
+"aspect": 1.419
+},
+"img036": {
+"subject": "math",
+"width": 620,
+"aspect": 0.355
+},
+"img037": {
+"subject": "math",
+"width": 317,
+"aspect": 0.991
+},
+"img038": {
+"subject": "math",
+"width": 404,
+"aspect": 0.272
+},
+"img039": {
+"subject": "math",
+"width": 276,
+"aspect": 0.989
+},
+"img040": {
+"subject": "math",
+"width": 396,
+"aspect": 0.854
+},
+"img041": {
+"subject": "math",
+"width": 742,
+"aspect": 0.349
+},
+"img042": {
+"subject": "math",
+"width": 317,
+"aspect": 0.795
+},
+"img043": {
+"subject": "math",
+"width": 320,
+"aspect": 0.947
+},
+"img044": {
+"subject": "math",
+"width": 364,
+"aspect": 0.835
+},
+"img045": {
+"subject": "math",
+"width": 704,
+"aspect": 0.396
+},
+"img046": {
+"subject": "math",
+"width": 455,
+"aspect": 0.692
+},
+"img047": {
+"subject": "math",
+"width": 403,
+"aspect": 0.747
+},
+"img048": {
+"subject": "math",
+"width": 326,
+"aspect": 0.929
+},
+"img049": {
+"subject": "math",
+"width": 238,
+"aspect": 0.912
+},
+"img050": {
+"subject": "math",
+"width": 251,
+"aspect": 1.048
+},
+"img051": {
+"subject": "math",
+"width": 313,
+"aspect": 1.217
+},
+"img052": {
+"subject": "math",
+"width": 690,
+"aspect": 0.375
+},
+"img053": {
+"subject": "math",
+"width": 345,
+"aspect": 0.846
+},
+"img054": {
+"subject": "math",
+"width": 292,
+"aspect": 1.017
+},
+"img055": {
+"subject": "math",
+"width": 331,
+"aspect": 0.921
+},
+"img056": {
+"subject": "math",
+"width": 393,
+"aspect": 0.972
+},
+"img057": {
+"subject": "math",
+"width": 317,
+"aspect": 0.817
+},
+"img058": {
+"subject": "math",
+"width": 520,
+"aspect": 0.506
+},
+"img059": {
+"subject": "math",
+"width": 282,
+"aspect": 1.298
+},
+"img060": {
+"subject": "math",
+"width": 875,
+"aspect": 0.255
+},
+"img061": {
+"subject": "math",
+"width": 383,
+"aspect": 0.681
+},
+"img062": {
+"subject": "math",
+"width": 332,
+"aspect": 0.84
+},
+"img063": {
+"subject": "math",
+"width": 420,
+"aspect": 0.779
+},
+"img064": {
+"subject": "math",
+"width": 236,
+"aspect": 1.186
+},
+"img065": {
+"subject": "math",
+"width": 306,
+"aspect": 0.944
+},
+"img066": {
+"subject": "math",
+"width": 355,
+"aspect": 0.49
+},
+"img067": {
+"subject": "math",
+"width": 427,
+"aspect": 0.501
+},
+"img068": {
+"subject": "math",
+"width": 530,
+"aspect": 0.43
+},
+"img069": {
+"subject": "math",
+"width": 263,
+"aspect": 0.791
+},
+"img070": {
+"subject": "math",
+"width": 735,
+"aspect": 0.21
+},
+"img071": {
+"subject": "math",
+"width": 393,
+"aspect": 0.7
+},
+"img072": {
+"subject": "math",
+"width": 416,
+"aspect": 0.736
+},
+"img073": {
+"subject": "math",
+"width": 342,
+"aspect": 0.927
+},
+"img074": {
+"subject": "math",
+"width": 216,
+"aspect": 1.185
+},
+"img075": {
+"subject": "math",
+"width": 823,
+"aspect": 0.343
+},
+"img076": {
+"subject": "math",
+"width": 481,
+"aspect": 0.663
+},
+"img077": {
+"subject": "math",
+"width": 206,
+"aspect": 0.927
+},
+"img078": {
+"subject": "math",
+"width": 294,
+"aspect": 1.02
+},
+"img079": {
+"subject": "math",
+"width": 739,
+"aspect": 0.123
+},
+"img080": {
+"subject": "math",
+"width": 272,
+"aspect": 1.085
+},
+"img081": {
+"subject": "math",
+"width": 378,
+"aspect": 0.849
+},
+"img082": {
+"subject": "math",
+"width": 628,
+"aspect": 0.217
+},
+"img083": {
+"subject": "math",
+"width": 476,
+"aspect": 0.67
+},
+"img084": {
+"subject": "math",
+"width": 338,
+"aspect": 1.402
+},
+"img085": {
+"subject": "math",
+"width": 767,
+"aspect": 0.129
+},
+"img086": {
+"subject": "math",
+"width": 623,
+"aspect": 0.276
+},
+"img087": {
+"subject": "math",
+"width": 275,
+"aspect": 0.636
+},
+"img088": {
+"subject": "math",
+"width": 454,
+"aspect": 0.368
+},
+"img089": {
+"subject": "math",
+"width": 216,
+"aspect": 0.889
+},
+"img090": {
+"subject": "math",
+"width": 595,
+"aspect": 0.121
+},
+"img091": {
+"subject": "math",
+"width": 489,
+"aspect": 0.387
+},
+"img092": {
+"subject": "math",
+"width": 484,
+"aspect": 0.382
+},
+"img093": {
+"subject": "math",
+"width": 205,
+"aspect": 1.151
+},
+"img094": {
+"subject": "math",
+"width": 764,
+"aspect": 0.168
+},
+"img095": {
+"subject": "math",
+"width": 184,
+"aspect": 1.147
+},
+"img096": {
+"subject": "math",
+"width": 184,
+"aspect": 0.995
+},
+"img097": {
+"subject": "physics",
+"width": 834,
+"aspect": 0.342
+},
+"img098": {
+"subject": "physics",
+"width": 883,
+"aspect": 0.327
+},
+"img099": {
+"subject": "physics",
+"width": 340,
+"aspect": 0.759
+},
+"img100": {
+"subject": "physics",
+"width": 231,
+"aspect": 1.216
+},
+"img101": {
+"subject": "physics",
+"width": 704,
+"aspect": 0.678
+},
+"img102": {
+"subject": "biology",
+"width": 580,
+"aspect": 0.262
+},
+"img103": {
+"subject": "chemistry",
+"width": 602,
+"aspect": 0.108
+},
+"img104": {
+"subject": "chemistry",
+"width": 599,
+"aspect": 0.107
+},
+"img105": {
+"subject": "chemistry",
+"width": 495,
+"aspect": 0.242
+},
+"img106": {
+"subject": "chemistry",
+"width": 279,
+"aspect": 0.125
+},
+"img107": {
+"subject": "chemistry",
+"width": 272,
+"aspect": 0.515
+},
+"img108": {
+"subject": "history",
+"width": 404,
+"aspect": 0.517
+},
+"img109": {
+"subject": "biology",
+"width": 189,
+"aspect": 0.354
+},
+"img110": {
+"subject": "biology",
+"width": 433,
+"aspect": 0.286
+},
+"img111": {
+"subject": "biology",
+"width": 167,
+"aspect": 1.443
+},
+"img112": {
+"subject": "biology",
+"width": 375,
+"aspect": 0.475
+},
+"img113": {
+"subject": "biology",
+"width": 625,
+"aspect": 0.378
+},
+"img114": {
+"subject": "biology",
+"width": 650,
+"aspect": 0.189
+},
+"img115": {
+"subject": "biology",
+"width": 503,
+"aspect": 0.332
+},
+"img116": {
+"subject": "biology",
+"width": 490,
+"aspect": 0.331
+},
+"img117": {
+"subject": "biology",
+"width": 637,
+"aspect": 0.397
+},
+"img118": {
+"subject": "biology",
+"width": 309,
+"aspect": 0.663
+},
+"img119": {
+"subject": "biology",
+"width": 652,
+"aspect": 0.362
+},
+"img120": {
+"subject": "biology",
+"width": 484,
+"aspect": 0.324
+},
+"img121": {
+"subject": "biology",
+"width": 675,
+"aspect": 0.286
+},
+"img122": {
+"subject": "biology",
+"width": 540,
+"aspect": 0.319
+},
+"img123": {
+"subject": "biology",
+"width": 580,
+"aspect": 0.395
+},
+"img124": {
+"subject": "biology",
+"width": 425,
+"aspect": 0.576
+},
+"img125": {
+"subject": "biology",
+"width": 455,
+"aspect": 0.545
+},
+"img126": {
+"subject": "biology",
+"width": 434,
+"aspect": 0.26
+},
+"img127": {
+"subject": "biology",
+"width": 502,
+"aspect": 0.414
+},
+"img128": {
+"subject": "biology",
+"width": 312,
+"aspect": 0.849
+},
+"img129": {
+"subject": "biology",
+"width": 600,
+"aspect": 0.403
+},
+"img130": {
+"subject": "biology",
+"width": 318,
+"aspect": 0.22
+},
+"img131": {
+"subject": "biology",
+"width": 563,
+"aspect": 0.167
+},
+"img132": {
+"subject": "biology",
+"width": 545,
+"aspect": 0.297
+},
+"img133": {
+"subject": "biology",
+"width": 528,
+"aspect": 0.176
+},
+"img134": {
+"subject": "biology",
+"width": 200,
+"aspect": 1.105
+},
+"img135": {
+"subject": "biology",
+"width": 442,
+"aspect": 0.197
+},
+"img136": {
+"subject": "biology",
+"width": 457,
+"aspect": 0.545
+},
+"img137": {
+"subject": "biology",
+"width": 359,
+"aspect": 0.404
+},
+"img138": {
+"subject": "biology",
+"width": 900,
+"aspect": 0.325
+},
+"img139": {
+"subject": "biology",
+"width": 423,
+"aspect": 0.402
+},
+"img140": {
+"subject": "biology",
+"width": 667,
+"aspect": 0.477
+},
+"img141": {
+"subject": "biology",
+"width": 328,
+"aspect": 0.466
+},
+"img142": {
+"subject": "biology",
+"width": 210,
+"aspect": 1.205
+},
+"img143": {
+"subject": "biology",
+"width": 334,
+"aspect": 0.437
+},
+"img144": {
+"subject": "biology",
+"width": 405,
+"aspect": 0.664
+},
+"img145": {
+"subject": "biology",
+"width": 616,
+"aspect": 0.544
+},
+"img146": {
+"subject": "biology",
+"width": 580,
+"aspect": 0.822
+},
+"img147": {
+"subject": "biology",
+"width": 580,
+"aspect": 0.822
+},
+"img148": {
+"subject": "biology",
+"width": 900,
+"aspect": 0.638
+},
+"img149": {
+"subject": "biology",
+"width": 900,
+"aspect": 0.554
+},
+"img150": {
+"subject": "biology",
+"width": 503,
+"aspect": 0.417
+},
+"img151": {
+"subject": "biology",
+"width": 576,
+"aspect": 0.281
+},
+"img152": {
+"subject": "biology",
+"width": 900,
+"aspect": 0.593
+},
+"img153": {
+"subject": "biology",
+"width": 272,
+"aspect": 1.618
+},
+"img154": {
+"subject": "biology",
+"width": 372,
+"aspect": 0.589
+},
+"img155": {
+"subject": "biology",
+"width": 525,
+"aspect": 0.39
+},
+"img156": {
+"subject": "biology",
+"width": 531,
+"aspect": 0.228
+},
+"img157": {
+"subject": "biology",
+"width": 601,
+"aspect": 0.203
+},
+"img158": {
+"subject": "biology",
+"width": 592,
+"aspect": 0.429
+},
+"img159": {
+"subject": "biology",
+"width": 441,
+"aspect": 0.338
+},
+"img160": {
+"subject": "biology",
+"width": 316,
+"aspect": 0.335
+},
+"img161": {
+"subject": "biology",
+"width": 322,
+"aspect": 0.273
+},
+"img162": {
+"subject": "math",
+"width": 182,
+"aspect": 0.923
+},
+"img163": {
+"subject": "math",
+"width": 323,
+"aspect": 1.062
+},
+"img164": {
+"subject": "math",
+"width": 362,
+"aspect": 0.815
+},
+"img165": {
+"subject": "math",
+"width": 759,
+"aspect": 0.253
+},
+"img166": {
+"subject": "math",
+"width": 440,
+"aspect": 0.389
+},
+"img167": {
+"subject": "math",
+"width": 554,
+"aspect": 0.312
+},
+"img168": {
+"subject": "math",
+"width": 511,
+"aspect": 0.352
+},
+"img169": {
+"subject": "math",
+"width": 330,
+"aspect": 0.445
+},
+"img170": {
+"subject": "math",
+"width": 510,
+"aspect": 0.633
+},
+"img171": {
+"subject": "math",
+"width": 530,
+"aspect": 0.2
+},
+"img172": {
+"subject": "math",
+"width": 155,
+"aspect": 0.394
+},
+"img173": {
+"subject": "math",
+"width": 830,
+"aspect": 0.122
+},
+"img174": {
+"subject": "math",
+"width": 842,
+"aspect": 0.172
+},
+"img175": {
+"subject": "math",
+"width": 830,
+"aspect": 0.131
+},
+"img176": {
+"subject": "math",
+"width": 897,
+"aspect": 0.153
+},
+"img177": {
+"subject": "math",
+"width": 785,
+"aspect": 0.138
+},
+"img178": {
+"subject": "math",
+"width": 900,
+"aspect": 0.163
+},
+"img179": {
+"subject": "math",
+"width": 900,
+"aspect": 0.074
+},
+"img180": {
+"subject": "math",
+"width": 900,
+"aspect": 0.106
+},
+"img181": {
+"subject": "math",
+"width": 900,
+"aspect": 0.142
+},
+"img182": {
+"subject": "math",
+"width": 900,
+"aspect": 0.129
+},
+"img183": {
+"subject": "math",
+"width": 900,
+"aspect": 0.115
+},
+"img184": {
+"subject": "math",
+"width": 900,
+"aspect": 0.128
+},
+"img185": {
+"subject": "math",
+"width": 900,
+"aspect": 0.108
+},
+"img186": {
+"subject": "math",
+"width": 894,
+"aspect": 0.243
+},
+"img187": {
+"subject": "math",
+"width": 879,
+"aspect": 0.187
+},
+"img188": {
+"subject": "math",
+"width": 193,
+"aspect": 0.264
+},
+"img189": {
+"subject": "math",
+"width": 287,
+"aspect": 0.143
+},
+"img190": {
+"subject": "math",
+"width": 317,
+"aspect": 0.208
+},
+"img191": {
+"subject": "math",
+"width": 486,
+"aspect": 0.183
+},
+"img192": {
+"subject": "math",
+"width": 386,
+"aspect": 0.187
+},
+"img193": {
+"subject": "math",
+"width": 344,
+"aspect": 0.203
+},
+"img194": {
+"subject": "math",
+"width": 280,
+"aspect": 0.3
+},
+"img195": {
+"subject": "math",
+"width": 208,
+"aspect": 1.356
+},
+"img196": {
+"subject": "math",
+"width": 436,
+"aspect": 0.654
+},
+"img197": {
+"subject": "math",
+"width": 373,
+"aspect": 0.866
+},
+"img198": {
+"subject": "math",
+"width": 368,
+"aspect": 1.046
+},
+"img199": {
+"subject": "math",
+"width": 421,
+"aspect": 0.162
+},
+"img200": {
+"subject": "math",
+"width": 279,
+"aspect": 0.244
+},
+"img201": {
+"subject": "math",
+"width": 421,
+"aspect": 0.166
+},
+"img202": {
+"subject": "math",
+"width": 745,
+"aspect": 0.208
+},
+"img203": {
+"subject": "math",
+"width": 477,
+"aspect": 0.164
+},
+"img204": {
+"subject": "math",
+"width": 419,
+"aspect": 0.382
+},
+"img205": {
+"subject": "math",
+"width": 503,
+"aspect": 0.159
+},
+"img206": {
+"subject": "math",
+"width": 182,
+"aspect": 0.901
+},
+"img207": {
+"subject": "math",
+"width": 234,
+"aspect": 0.735
+},
+"img208": {
+"subject": "math",
+"width": 416,
+"aspect": 0.416
+},
+"img209": {
+"subject": "math",
+"width": 682,
+"aspect": 0.276
+},
+"img210": {
+"subject": "math",
+"width": 482,
+"aspect": 0.398
+},
+"img211": {
+"subject": "math",
+"width": 316,
+"aspect": 1.231
+},
+"img212": {
+"subject": "math",
+"width": 58,
+"aspect": 0.534
+},
+"img213": {
+"subject": "math",
+"width": 401,
+"aspect": 0.097
+},
+"img214": {
+"subject": "math",
+"width": 52,
+"aspect": 0.635
+},
+"img215": {
+"subject": "math",
+"width": 52,
+"aspect": 0.635
+},
+"img216": {
+"subject": "math",
+"width": 52,
+"aspect": 0.635
+},
+"img217": {
+"subject": "math",
+"width": 48,
+"aspect": 0.625
+},
+"img218": {
+"subject": "math",
+"width": 48,
+"aspect": 0.625
+},
+"img219": {
+"subject": "math",
+"width": 500,
+"aspect": 0.076
+},
+"img220": {
+"subject": "math",
+"width": 50,
+"aspect": 0.82
+},
+"img221": {
+"subject": "math",
+"width": 60,
+"aspect": 0.6
+},
+"img222": {
+"subject": "math",
+"width": 46,
+"aspect": 0.717
+},
+"img223": {
+"subject": "math",
+"width": 293,
+"aspect": 0.147
+},
+"img224": {
+"subject": "math",
+"width": 43,
+"aspect": 0.837
+},
+"img225": {
+"subject": "math",
+"width": 43,
+"aspect": 0.837
+},
+"img226": {
+"subject": "math",
+"width": 586,
+"aspect": 0.072
+},
+"img227": {
+"subject": "math",
+"width": 539,
+"aspect": 0.085
+},
+"img228": {
+"subject": "math",
+"width": 322,
+"aspect": 0.792
+},
+"img229": {
+"subject": "math",
+"width": 321,
+"aspect": 0.963
+},
+"img230": {
+"subject": "math",
+"width": 61,
+"aspect": 0.508
+},
+"img231": {
+"subject": "math",
+"width": 242,
+"aspect": 0.86
+},
+"img232": {
+"subject": "math",
+"width": 346,
+"aspect": 0.76
+},
+"img233": {
+"subject": "math",
+"width": 341,
+"aspect": 1.0
+},
+"img234": {
+"subject": "math",
+"width": 250,
+"aspect": 1.132
+},
+"img235": {
+"subject": "math",
+"width": 450,
+"aspect": 0.396
+},
+"img236": {
+"subject": "math",
+"width": 626,
+"aspect": 0.364
+},
+"img237": {
+"subject": "math",
+"width": 503,
+"aspect": 0.27
+},
+"img238": {
+"subject": "math",
+"width": 608,
+"aspect": 0.234
+},
+"img239": {
+"subject": "math",
+"width": 298,
+"aspect": 0.708
+},
+"img240": {
+"subject": "math",
+"width": 285,
+"aspect": 1.053
+},
+"img241": {
+"subject": "math",
+"width": 311,
+"aspect": 0.672
+},
+"img242": {
+"subject": "math",
+"width": 311,
+"aspect": 0.672
+},
+"img243": {
+"subject": "math",
+"width": 272,
+"aspect": 0.89
+},
+"img244": {
+"subject": "math",
+"width": 361,
+"aspect": 1.025
+},
+"img245": {
+"subject": "math",
+"width": 318,
+"aspect": 0.956
+},
+"img246": {
+"subject": "math",
+"width": 463,
+"aspect": 0.935
+},
+"img247": {
+"subject": "math",
+"width": 420,
+"aspect": 0.636
+},
+"img248": {
+"subject": "math",
+"width": 900,
+"aspect": 0.097
+},
+"img249": {
+"subject": "math",
+"width": 900,
+"aspect": 0.066
+},
+"img250": {
+"subject": "math",
+"width": 900,
+"aspect": 0.071
+},
+"img251": {
+"subject": "math",
+"width": 457,
+"aspect": 0.63
+},
+"img252": {
+"subject": "math",
+"width": 848,
+"aspect": 0.265
+},
+"img253": {
+"subject": "math",
+"width": 848,
+"aspect": 0.265
+},
+"img254": {
+"subject": "math",
+"width": 53,
+"aspect": 0.736
+},
+"img255": {
+"subject": "math",
+"width": 58,
+"aspect": 0.552
+},
+"img256": {
+"subject": "math",
+"width": 66,
+"aspect": 0.636
+},
+"img257": {
+"subject": "math",
+"width": 92,
+"aspect": 0.348
+},
+"img258": {
+"subject": "math",
+"width": 85,
+"aspect": 0.388
+},
+"img259": {
+"subject": "math",
+"width": 616,
+"aspect": 0.169
+},
+"img260": {
+"subject": "math",
+"width": 283,
+"aspect": 0.629
+},
+"img261": {
+"subject": "math",
+"width": 308,
+"aspect": 0.542
+},
+"img262": {
+"subject": "math",
+"width": 442,
+"aspect": 0.319
+},
+"img263": {
+"subject": "math",
+"width": 219,
+"aspect": 0.954
+},
+"img264": {
+"subject": "math",
+"width": 359,
+"aspect": 0.699
+},
+"img265": {
+"subject": "math",
+"width": 408,
+"aspect": 0.346
+},
+"img266": {
+"subject": "math",
+"width": 277,
+"aspect": 0.841
+},
+"img267": {
+"subject": "math",
+"width": 454,
+"aspect": 0.176
+},
+"img268": {
+"subject": "math",
+"width": 580,
+"aspect": 0.078
+},
+"img269": {
+"subject": "math",
+"width": 431,
+"aspect": 0.139
+},
+"img270": {
+"subject": "math",
+"width": 831,
+"aspect": 0.088
+},
+"img271": {
+"subject": "math",
+"width": 324,
+"aspect": 0.91
+}
+}

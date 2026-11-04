@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+tools/.venv/
+tools/node_modules/
+work/
+__pycache__/

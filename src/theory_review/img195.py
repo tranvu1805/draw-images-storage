@@ -1,0 +1,15 @@
+from graphs_kit import *
+setfs(12)
+
+# v = 32t - 32t^2 (parabola through O and (1;0), vertex I(1/2;8))
+fig, ax = win('img195', (38, 248), (133, 27.6))
+axes(ax, (0, 1.11), (0, 8.7), xname=None, yname=None, origin=None, lw=1.1)
+dash(ax, [(0, 8), (0.5, 8), (0.5, 0)], lw=1.0)
+curve(ax, lambda t: 32 * t - 32 * t**2, 0, 1, lw=1.4)
+T(ax, -0.07, 8.6, '$v$')
+T(ax, -0.05, 8.0, '$8$', ha='right')
+T(ax, -0.05, 0.2, '$0$', ha='right')
+T(ax, 0.93, 0.4, '$1$')
+T(ax, 1.1, 0.45, '$t$')
+T(ax, 0.5, -0.65, r'$\frac{1}{2}$', fs=14)
+save(fig, 'img195')

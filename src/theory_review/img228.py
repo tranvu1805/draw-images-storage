@@ -1,0 +1,23 @@
+from graphs_kit import *
+setfs(13)
+
+# y = -1 + 1/(x - 1) = (2 - x)/(x - 1): TCĐ x = 1, TCN y = -1 (light red lines as in the original)
+fig, ax = win('img228', (140, 115), (29.5, 28.8))
+box = (-3.9, 5.63, -4.76, 3.72)
+A = dict(color='#f08c8c', lw=1.6)
+vline(ax, 1, -4.86, 3.85, **A)
+hline(ax, -1, -3.9, 5.63, **A)
+axes(ax, (-3.9, 5.63), (-4.86, 3.65), xname=None, yname=None, origin=None, lw=1.0)
+f = lambda x: -1 + 1 / (x - 1)
+curve(ax, f, -3.9, 0.999, box=box, lw=1.6)
+curve(ax, f, 1.001, 5.63, box=box, lw=1.6)
+for p in [(0, 0), (0, -1), (0, -2), (2, 0)]:
+    ax.plot(*p, 'o', ms=3.2, color=INK, zorder=6)
+T(ax, -0.3, 3.5, '$y$')
+T(ax, 5.45, -0.35, '$x$')
+T(ax, -0.3, -0.33, '$O$')
+T(ax, 0.82, -0.35, '$1$')
+T(ax, 1.95, -0.35, '$2$')
+T(ax, -0.1, -1.25, '$-1$', ha='right')
+T(ax, -0.1, -2.1, '$-2$', ha='right')
+save(fig, 'img228')

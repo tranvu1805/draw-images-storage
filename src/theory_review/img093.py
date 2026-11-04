@@ -1,0 +1,21 @@
+from graphs_kit import *
+setfs(12)
+
+# y = x^3 - 3x + 1: CĐ (-1;3), CT (1;-1)
+fig, ax = win('img093', (64, 143), 25)
+axes(ax, (-2.56, 5.32), (-3.48, 5.4), xname=None, yname=None, origin=None, lw=1.0)
+xt(ax, [-2, -1, 1, 2, 3, 4], [''] * 6, size=2.5)
+yt(ax, [-3, -2, -1, 1, 2, 3, 4], [''] * 7, size=2.5)
+dash(ax, [(-1, 0), (-1, 3), (0, 3)])
+dash(ax, [(0, -1), (1, -1), (1, 0)])
+curve(ax, lambda x: x**3 - 3 * x + 1, -2.24, 2.24)
+for p in [(-1, 3), (0, 3), (-1, 0), (0, 0), (1, 0), (0, -1), (1, -1)]:
+    ax.plot(*p, 'o', ms=3.2, color=INK, zorder=6)
+T(ax, -0.45, 5.15, '$y$', fs=15)
+T(ax, 5.15, -0.55, '$x$', fs=15)
+T(ax, 0.2, 2.6, '$3$', ha='left')
+T(ax, -1.15, -0.5, '$-1$')
+T(ax, -0.32, -0.5, '$O$')
+T(ax, 1.0, -0.5, '$1$', bg=True)
+T(ax, -0.15, -1.15, '$-1$', ha='right')
+save(fig, 'img093')

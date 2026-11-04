@@ -1,0 +1,15 @@
+from graphs_kit import *
+setfs(18)
+
+# y = x^3 - 3x^2 + 2: CĐ (0;2), CT (2;-2)
+fig, ax = win('img046', (210, 168), (42, 38))
+axes(ax, (-3.1, 3.98), (-3.47, 4.05), xname=None, yname=None, origin=None)
+dash(ax, [(0, -2), (2, -2), (2, 0)])
+curve(ax, lambda x: x**3 - 3 * x**2 + 2, -1.15, 3.12)
+T(ax, -0.15, 2.3, '$2$', ha='right')
+T(ax, 0.45, 0.4, '$O$')
+T(ax, 2.0, 0.42, '$2$')
+T(ax, 3.7, -0.55, '$x$', fs=19)
+T(ax, 0.35, 3.9, '$y$', fs=19)
+T(ax, -0.1, -2.05, '$-2$', ha='right')
+save(fig, 'img046')

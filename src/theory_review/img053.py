@@ -1,0 +1,23 @@
+from graphs_kit import *
+setfs(14)
+
+# y = x^3 - 3x + 1: CĐ (-1;3), CT (1;-1), y-intercept 1
+fig, ax = win('img053', (159, 187), 45.5)
+axes(ax, (-3.43, 3.98), (-2.22, 4.07), xname=None, yname=None, origin=None)
+dash(ax, [(-1, 0), (-1, 3), (0, 3)])
+dash(ax, [(0, -1), (1, -1), (1, 0)])
+curve(ax, lambda x: x**3 - 3 * x + 1, -2.13, 2.09, lw=2.0)
+xt(ax, [-3, 3], ['', ''])
+yt(ax, [2, -2], ['', ''])
+xt(ax, [-2, -1, 0, 1, 2], ['', '', '', '', ''], style='dot', size=4)
+yt(ax, [3, 1, -1], ['', '', ''], style='dot', size=4)
+T(ax, -0.3, 3.95, '$y$', fs=15)
+T(ax, 3.7, 0.4, '$x$', fs=15)
+T(ax, 0.2, 3.0, '$3$', ha='left')
+T(ax, 0.2, 1.0, '$1$', ha='left')
+T(ax, 1, 0.35, '$1$')
+T(ax, 2, 0.35, '$2$')
+T(ax, -1, -0.38, '$-1$')
+T(ax, -0.25, -0.4, '$O$')
+T(ax, -0.08, -1.3, '$-1$', ha='right')
+save(fig, 'img053')

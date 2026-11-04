@@ -1,0 +1,25 @@
+from bio_kit import *
+
+# pedigree: 1 x 2 -> (3, the girl, affected son); 3 x wife -> 3 kids (girl affected); 5 = son of the affected man
+b = Board('img112', lw=1.3, font=17, r=12)
+b.person('I1', 167, 16, 'm')
+b.person('I2', 223, 16, 'f')
+b.person('3', 117, 100, 'm')
+b.person('c', 193, 101, 'f')
+b.person('A', 296, 100, 'm', 'k')
+b.person('w3', 55, 101, 'f')
+b.person('wA', 345, 100, 'f')
+b.person('k1', 38, 158, 'm')
+b.person('k2', 80, 160, 'f', 'k')
+b.person('k3', 128, 160, 'f')
+b.person('5', 323, 138, 'm')
+mx = b.mate('I1', 'I2')
+b.kids(196, 16, 64, ['3', 'c', 'A'], xs=[117, 196, 296])
+m2 = b.mate('w3', '3')
+b.line((80, 100), (80, 124))
+b.kids(80, None, 124, ['k1', 'k2', 'k3'], xs=[33, 80, 129])
+b.mate('A', 'wA')
+b.kids(322, 100, 126, ['5'], xs=[322])
+for x, y, s in [(126, 19, '1'), (258, 18, '2'), (157, 103, '3'), (163, 164, '4'), (353, 139, '5')]:
+    b.text(x, y, s)
+b.save()

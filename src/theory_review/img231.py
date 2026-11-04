@@ -1,0 +1,18 @@
+from graphs_kit import *
+setfs(13)
+
+# y = x^3 - 3x: CĐ (-1;2), CT (1;-2)
+fig, ax = win('img231', (123, 111), (31, 26.75))
+axes(ax, (-3.97, 3.77), (-3.63, 4.07), xname=None, yname=None, origin=None, lw=1.6, head=8)
+DOT = (0, (1, 2))
+dash(ax, [(-1, 0), (-1, 2), (0, 2)], ls=DOT)
+dash(ax, [(1, 0), (1, -2), (0, -2)], ls=DOT)
+curve(ax, lambda x: x**3 - 3 * x, -2.14, 2.21, lw=1.4)
+T(ax, 0.45, 3.85, '$y$')
+T(ax, 3.55, 0.45, '$x$')
+T(ax, 0.42, 2.05, '$2$')
+T(ax, 1.05, 0.4, '$1$')
+T(ax, -1.05, -0.45, '$-1$')
+T(ax, -0.25, -0.4, '$O$')
+T(ax, -0.15, -2.0, '$-2$', ha='right')
+save(fig, 'img231')
