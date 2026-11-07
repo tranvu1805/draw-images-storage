@@ -7,7 +7,7 @@ R, E = np.array([28.0, 1.0]), np.array([97.0, 44.0])
 u = (E - R) / np.linalg.norm(E - R)
 nrm = np.array([-u[1], u[0]])
 bd = np.array([-0.62, 1.0])               # branch direction (up-left)
-names = ['Lươn', 'Cá rô', 'Kỳ nhông', 'Thằn lằn', 'Bồ câu', 'Chuột']
+names = ['Cá mút đá', 'Cá rô', 'Kỳ nhông', 'Thằn lằn', 'Bồ câu', 'Chuột']
 fr = [0.08, 0.22, 0.36, 0.50, 0.64, 0.80]
 nodes = [R + f * (E - R) for f in fr]
 ax.plot([R[0], E[0]], [R[1], E[1]], color=INK, lw=1.6, solid_capstyle='round')
